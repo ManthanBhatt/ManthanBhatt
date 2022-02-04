@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManthanBhatt
-- 👀 I’m interested in gaming and traveling to new places
-- 🌱 I’m currently learning javascript and python
+- 👀 I’m interested in gaming and traveling to new places.
+- 🌱 I’m currently learning data structure and algorithms.
 - 💞️ I’m looking to collaborate on an ionic based project.
 - 📫 You can reach me by sending an email to manthanbhatt6225@gmail.com
 
