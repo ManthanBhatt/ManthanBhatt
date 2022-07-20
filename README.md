@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManthanBhatt
+- 👋 Hi, I’m Manthan Bhatt
 - 👀 I’m interested in gaming and traveling to new places.
 - 🌱 I’m currently learning data structure and algorithms.
 - 💞️ I’m looking to collaborate on an web and hybrid mobile application projects.
