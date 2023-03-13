@@ -18,11 +18,11 @@
 
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 
-## 🖥️ What I use
+<!-- ## 🖥️ What I use -->
 
-### Tech Stack I like to use
+<!-- ### Tech Stack I like to use -->
 
-<img src="https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Ionic-black?style=for-the-badge&logo=ionic&logoColor=white"> <img src="https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=red"> <img src="https://img.shields.io/badge/php-B0B3D6.svg?style=for-the-badge&logo=php"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Ionic-black?style=for-the-badge&logo=ionic&logoColor=white"> <img src="https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=red"> <img src="https://img.shields.io/badge/php-B0B3D6.svg?style=for-the-badge&logo=php"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> -->
 
 <!-- ## ✨ Projects ✨ -->
 
