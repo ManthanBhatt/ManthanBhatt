@@ -56,9 +56,9 @@
   <img src="https://img.shields.io/badge/manthanbhatt-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
 </a>
 
-## 📈 Stats
+<!-- ## 📈 Stats -->
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ManthanBhatt&theme=tokyonight&layout=compact&card_width=250px" /></a>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanBhatt&theme=tokyonight&layout=compact&card_width=250px" /></a><br>
+<!-- <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ManthanBhatt&theme=tokyonight&layout=compact&card_width=250px" /></a> -->
+<!-- <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanBhatt&theme=tokyonight&layout=compact&card_width=250px" /></a><br> -->
 
-<div><a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanBhatt&theme=tokyonight" /></a></div>
+<!-- <div><a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanBhatt&theme=tokyonight" /></a></div> -->
