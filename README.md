@@ -1,8 +1,8 @@
 <h2> <img src="./assets/wave.gif" width="30px"> Hi, I’m Manthan Bhatt </h2>
 
 - 👀 I’m interested in gaming and traveling to new places.
-- 🌱 I’m currently learning data structure and algorithms.
-- 💞️ I’m looking to collaborate on an web and hybrid mobile application projects.
+- 🌱 I’m currently learning AI and ML.
+- 💞️ I’m looking to collaborate on web and hybrid mobile application projects.
 
 ## 💪 Skillset
 
