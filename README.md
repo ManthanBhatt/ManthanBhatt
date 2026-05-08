@@ -36,8 +36,4 @@
 </a>
 
 ## 📈 Stats
-
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ManthanBhatt&theme=tokyonight&layout=compact&card_width=250px" /></a>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanBhatt&theme=tokyonight&layout=compact&card_width=250px" /></a><br>
-
 <div><a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanBhatt&theme=tokyonight" /></a></div>
