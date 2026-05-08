@@ -23,8 +23,9 @@ When I’m not coding, I’m probably exploring new places, gaming, or thinking 
 
 - Building and improving SaaS products for real business workflows
 - Exploring AI features inside existing products
-- Creating tools for productivity, business, and operations
+- Creating productivity and business workflow tools
 - Writing about product building, architecture, and development on dev.to
+- Working on ideas around personal apps, AI tools, PMS systems, POS systems, and mobile-first products
 
 ---
 
@@ -34,6 +35,7 @@ When I’m not coding, I’m probably exploring new places, gaming, or thinking 
 - Better ways to integrate AI into web and mobile products
 - Scalable SaaS architecture
 - Product-led engineering
+- System design for real business workflows
 
 ---
 
@@ -49,6 +51,7 @@ I’m open to collaborating on:
 - Hospitality, restaurant, and business workflow software
 
 ---
+
 ## 💪 Skillset
 
 <b>Technologies I work with:</b>
@@ -59,7 +62,12 @@ I’m open to collaborating on:
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"> 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"> 
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"> 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"> 
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> 
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB"> 
+<img src="https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white"> 
 <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white"> 
 <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white"> 
 <img src="https://img.shields.io/badge/Cordova-E8E8E8?style=flat&logo=apachecordova&logoColor=black"> 
@@ -72,13 +80,36 @@ I’m open to collaborating on:
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"> 
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"> 
 <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"> 
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"> 
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"> 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"> 
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"> 
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white">
+
+---
+
+## 📊 GitHub Activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=manthanbhatt6225&show_icons=true&theme=default&hide_border=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanbhatt6225&layout=compact&theme=default&hide_border=true" height="160">
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=manthanbhatt6225&theme=default&hide_border=true">
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=manthanbhatt6225&style=flat&color=blue" alt="Profile views">
+</p>
 
 ---
 
 ## ✍️ I Write About
+
+I like sharing practical lessons from building real products, especially around:
 
 - AI in products
 - SaaS architecture
@@ -88,6 +119,8 @@ I’m open to collaborating on:
 - Backend architecture
 - Product building
 - Freelance development lessons
+- Mobile app performance
+- Real-world workflow problems
 
 ---
 
@@ -113,7 +146,7 @@ I’m open to collaborating on:
 
 ## 📬 Contact Me
 
-Want to collaborate, discuss a project, or just talk about product ideas?
+Want to collaborate, discuss a project, or talk about product ideas?
 
 📧 **Email:** manthanbhatt6225@gmail.com
 
