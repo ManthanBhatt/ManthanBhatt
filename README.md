@@ -93,17 +93,14 @@ I’m open to collaborating on:
 ## 📊 GitHub Activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ManthanBhatt&show_icons=true&theme=default&hide_border=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanBhatt&layout=compact&theme=default&hide_border=true" height="160">
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=ManthanBhatt&theme=default&hide_border=true">
-</p>
-
-<p>
   <img src="https://komarev.com/ghpvc/?username=ManthanBhatt&style=flat&color=blue" alt="Profile views">
 </p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManthanBhatt&theme=github-compact&hide_border=true" alt="GitHub Activity Graph">
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ManthanBhatt&theme=flat&no-frame=true&margin-w=8" alt="GitHub Trophies">
 
 ---
 
