@@ -18,36 +18,6 @@
 
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 
-<!-- ## 🖥️ What I use -->
-
-<!-- ### Tech Stack I like to use -->
-
-<!-- <img src="https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Ionic-black?style=for-the-badge&logo=ionic&logoColor=white"> <img src="https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=red"> <img src="https://img.shields.io/badge/php-B0B3D6.svg?style=for-the-badge&logo=php"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> -->
-
-<!-- ## ✨ Projects ✨ -->
-
-<!-- <b> Some of the projects I have made </b> <br>
-
-<a href="https://github.com/Advik-Gupta/YelpCamp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=YelpCamp&theme=tokyonight" />
-</a>
-<a href="https://github.com/Advik-Gupta/COVID-19-Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=COVID-19-Tracker&theme=tokyonight" />
-</a><br><br>
-
-<a href="https://github.com/Advik-Gupta/CryptoPunk-Web3-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=CryptoPunk-Web3-Project&theme=tokyonight&show_owner" />
-</a> 
-<a href="https://github.com/Advik-Gupta/Advik-Clothing-V2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Advik-Clothing-V2&theme=tokyonight&show_owner" />
-</a><br><br>
-
-<a href="https://github.com/Advik-Gupta/WhatsApp-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=WhatsApp-Clone&theme=tokyonight" />
-</a> 
-<a href="https://github.com/Advik-Gupta/Meeses">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Meeses&theme=tokyonight" />
-</a> <br><br> -->
 
 ## 🤝 Contact Me
 
@@ -65,9 +35,9 @@
   <img src="https://img.shields.io/badge/manthanbhatt-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
 </a>
 
-<!-- ## 📈 Stats -->
+## 📈 Stats
 
-<!-- <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ManthanBhatt&theme=tokyonight&layout=compact&card_width=250px" /></a> -->
-<!-- <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanBhatt&theme=tokyonight&layout=compact&card_width=250px" /></a><br> -->
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ManthanBhatt&theme=tokyonight&layout=compact&card_width=250px" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanBhatt&theme=tokyonight&layout=compact&card_width=250px" /></a><br>
 
-<!-- <div><a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanBhatt&theme=tokyonight" /></a></div> -->
+<div><a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanBhatt&theme=tokyonight" /></a></div>
