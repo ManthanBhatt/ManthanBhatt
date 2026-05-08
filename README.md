@@ -34,6 +34,3 @@
 <a href="https://dev.to/manthanbhatt">
   <img src="https://img.shields.io/badge/manthanbhatt-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
 </a>
-
-## 📈 Stats
-<div><a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManthanBhatt&theme=tokyonight" /></a></div>
