@@ -93,16 +93,16 @@ I’m open to collaborating on:
 ## 📊 GitHub Activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=manthanbhatt6225&show_icons=true&theme=default&hide_border=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanbhatt6225&layout=compact&theme=default&hide_border=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManthanBhatt&show_icons=true&theme=default&hide_border=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanBhatt&layout=compact&theme=default&hide_border=true" height="160">
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=manthanbhatt6225&theme=default&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=ManthanBhatt&theme=default&hide_border=true">
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=manthanbhatt6225&style=flat&color=blue" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=ManthanBhatt&style=flat&color=blue" alt="Profile views">
 </p>
 
 ---
