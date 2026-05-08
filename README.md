@@ -49,48 +49,34 @@ I’m open to collaborating on:
 - Hospitality, restaurant, and business workflow software
 
 ---
-
 ## 💪 Skillset
 
-### Languages
+<b>Technologies I work with:</b>
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<br><br>
 
-### Frontend & Mobile
-
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-<img src="https://img.shields.io/badge/Ionic-black?style=for-the-badge&logo=ionic&logoColor=white">
-<img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white">
-<img src="https://img.shields.io/badge/Cordova-E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=black">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
-### Backend
-
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/Slim%20PHP-719E40?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-
-### Databases
-
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-
-### Tools & Cloud
-
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"> 
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"> 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"> 
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"> 
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white"> 
+<img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white"> 
+<img src="https://img.shields.io/badge/Cordova-E8E8E8?style=flat&logo=apachecordova&logoColor=black"> 
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Express.js-404D59?style=flat"> 
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"> 
+<img src="https://img.shields.io/badge/Slim%20PHP-719E40?style=flat&logo=php&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"> 
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"> 
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"> 
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"> 
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"> 
+<img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white">
 
 ---
 
@@ -110,19 +96,19 @@ I’m open to collaborating on:
 ## 🌐 Find Me Online
 
 <a href="https://manthanbhatt.dev/">
-  <img src="https://img.shields.io/badge/Portfolio-manthanbhatt.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <img src="https://img.shields.io/badge/Portfolio-manthanbhatt.dev-000000?style=flat&logo=google-chrome&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/manthanbhatt6225/">
-  <img src="https://img.shields.io/badge/LinkedIn-Manthan%20Bhatt-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-Manthan%20Bhatt-%230077B5.svg?style=flat&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://dev.to/manthanbhatt">
-  <img src="https://img.shields.io/badge/dev.to-manthanbhatt-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+  <img src="https://img.shields.io/badge/dev.to-manthanbhatt-0A0A0A?style=flat&logo=dev.to&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/manthan_bhatt/">
-  <img src="https://img.shields.io/badge/Instagram-@manthan_bhatt-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-@manthan_bhatt-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white">
 </a>
 
 ---
